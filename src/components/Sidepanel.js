@@ -20,7 +20,7 @@ const Sidepanel = ({
             <ListItem sx={{ mb: 2 }}>
             <ListItemIcon><LocalActivityIcon sx={{ color: 'white' }}/></ListItemIcon>
             <Link to="/Events_summary" style={{ color: 'white', textDecoration: 'none' }}>
-                Configuration
+                Setup
             </Link>
             </ListItem>
             <ListItem sx={{ mb: 2 }}>
